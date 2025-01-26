@@ -18,7 +18,8 @@
 - **Project objective:** 
 
     **1.** Create Profit and Loss (P&L) reports by _[Year] (https://github.com/RUDRAJIT24/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Year%20Report.pdf)
-   **2.** Create Profit and Loss (P&L) reports by _[Months] (https://github.com/RUDRAJIT24/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Year%20By%20Months%20Report.pdf)
+  
+    **2.** Create Profit and Loss (P&L) reports by _[Months] (https://github.com/RUDRAJIT24/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Year%20By%20Months%20Report.pdf)
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
